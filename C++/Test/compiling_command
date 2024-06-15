@@ -1,0 +1,12 @@
+To Compile:
+g++ -Wall (also can include any other flags here) file_name.cpp -o file_name
+
+Some of the other flags are:
+-Werror (warnings -> errors)
+-Wextra (extra flags not enabled by -Wall)
+-Wpendantic (issues all warning by ISO C++ standard)
+
+To run:
+./file_name
+
+
